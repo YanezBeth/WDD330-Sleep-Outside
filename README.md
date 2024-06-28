@@ -13,6 +13,7 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 
 - `npm install`
 - `npm run start` starts up a local server and updates on any JS or CSS/SCSS changes.
+- .env: VITE_SERVER_URL=https://wdd330-backend.onrender.com/
 
 ## Other commands
 
